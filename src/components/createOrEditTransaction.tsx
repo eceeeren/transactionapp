@@ -6,7 +6,7 @@ import Transaction, { Currency } from '../models/transaction';
 
 interface CreateOrEditTransactionProps {
     modalVisibility: boolean;
-    onCreateOrUpdate: (values: any) => void;
+    onCreateOrUpdate: (values: Transaction) => void;
     onCancel: () => void;
     initialValues: Transaction | null;
 }
@@ -38,7 +38,7 @@ const CreateOrEditTransaction: React.FC<CreateOrEditTransactionProps> = ({
                     form.resetFields();
                     let item = 
                     {
-                        id : initialValues?.id, 
+                        id : initialValues?.id ?? 0, 
                         name: values.name, 
                         description: values.description, 
                         date: values.date,

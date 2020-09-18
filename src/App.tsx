@@ -16,7 +16,7 @@ const startingDataSource  = [
   {
     id: 1,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 1',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -24,7 +24,7 @@ const startingDataSource  = [
   {
     id: 2,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 2',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -32,7 +32,7 @@ const startingDataSource  = [
   {
     id: 3,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 3',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -40,7 +40,7 @@ const startingDataSource  = [
   {
     id: 4,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 4',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -48,7 +48,7 @@ const startingDataSource  = [
   {
     id: 5,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 5',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -56,7 +56,7 @@ const startingDataSource  = [
   {
     id: 6,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 6',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -64,7 +64,7 @@ const startingDataSource  = [
   {
     id: 7,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 7',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -72,7 +72,7 @@ const startingDataSource  = [
   {
     id: 8,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 8',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -80,7 +80,7 @@ const startingDataSource  = [
   {
     id: 9,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 9',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -88,7 +88,7 @@ const startingDataSource  = [
   {
     id: 10,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 10',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -96,7 +96,7 @@ const startingDataSource  = [
   {
     id: 11,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 11',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -104,7 +104,7 @@ const startingDataSource  = [
   {
     id: 12,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 12',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -112,7 +112,7 @@ const startingDataSource  = [
   {
     id: 13,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 13',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -120,7 +120,7 @@ const startingDataSource  = [
   {
     id: 14,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 14',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -128,7 +128,7 @@ const startingDataSource  = [
   {
     id: 15,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 15',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -136,7 +136,7 @@ const startingDataSource  = [
   {
     id: 16,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 16',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -144,7 +144,7 @@ const startingDataSource  = [
   {
     id: 17,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 17',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -152,7 +152,7 @@ const startingDataSource  = [
   {
     id: 18,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 18',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -160,7 +160,7 @@ const startingDataSource  = [
   {
     id: 19,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 19',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -168,7 +168,7 @@ const startingDataSource  = [
   {
     id: 20,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 20',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -176,7 +176,7 @@ const startingDataSource  = [
   {
     id: 21,
     name: 'A',
-    description: 'asjdasd',
+    description: 'Transaction 21',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.TRY
@@ -184,7 +184,7 @@ const startingDataSource  = [
   {
     id: 22,
     name: 'B',
-    description: 'ajbsdlkas',
+    description: 'Transaction 22',
     date: new Date('2020-10-17'),
     amount: 100,
     currency: Currency.EUR
@@ -208,7 +208,7 @@ const App = () => {
     setModalVisibility(false);
   };
 
-  const onCreate = (values: any) => {
+  const onCreate = (values: Transaction) => {
     let lastId = dataSource.sort(function(a, b) {
       return b.id - a.id;
     })[0].id;
@@ -224,8 +224,8 @@ const App = () => {
     setModalVisibility(false);
   };
 
-  const onUpdate = (values: any) => {
-    let itemIndex = dataSource.findIndex((item => item.id == values.id));
+  const onUpdate = (values: Transaction) => {
+    let itemIndex = dataSource.findIndex((item => item.id === values.id));
     dataSource[itemIndex].name = values.name;
     dataSource[itemIndex].description = values.description;
     dataSource[itemIndex].date = values.date;
@@ -236,9 +236,9 @@ const App = () => {
     setModalVisibility(false);
   };
 
-  const onCreateOrUpdate = (values: any) => {
+  const onCreateOrUpdate = (values: Transaction) => {
     console.log(values)
-    if(!values.id){
+    if(values.id === 0){
       onCreate(values);
     }
     else{
@@ -252,7 +252,7 @@ const App = () => {
     setDataSource(newDataSource);
   };
 
-  const update = (record: any) => {
+  const update = (record: Transaction) => {
     setInitialValues(record)
     setModalVisibility(true);
   };
@@ -297,7 +297,7 @@ const App = () => {
     {
       title: 'Action',
       key: 'action',
-      render: (record: any) => (
+      render: (record: Transaction) => (
           <div>
             <Button type="primary" onClick={() => update(record)}>Edit</Button>
             &nbsp;
@@ -316,8 +316,8 @@ const App = () => {
   ];
 
   return (
-    <div > 
-      <img src={logo} className="logo" style={{height: 100 , margin:30 }}/><br/>
+    <div id="app"> 
+      <img src={logo} alt="" className="logo" style={{height: 100 , margin:30 }}/><br/>
        <Button id="new-transaction" type="primary" onClick={showModal} style={buttonStyle}>
         New Transaction
       </Button>

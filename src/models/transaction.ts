@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default interface Transaction {
     id: number;
     name: string;
