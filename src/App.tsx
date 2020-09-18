@@ -210,8 +210,8 @@ const App = () => {
 
   const onCreate = (values: Transaction) => {
     let lastId = dataSource.sort(function(a, b) {
-      return b.id - a.id;
-    })[0].id;
+      return a.id - b.id;
+    })[dataSource.length-1].id;
     let newItem : Transaction = {
       id : lastId +1,
       name : values.name,
